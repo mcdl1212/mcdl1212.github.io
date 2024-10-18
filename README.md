@@ -18,3 +18,4 @@
 #TCG Card Shop Simulator
 #Unknown 9: Awakening
 #Osiris: New Dawn
+#Warhammer 40,000: Space Marine 2
