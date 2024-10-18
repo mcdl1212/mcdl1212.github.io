@@ -15,3 +15,4 @@
 #Citadelum
 #Assassin's Creed Mirage
 #City Bus Manager
+#TCG Card Shop Simulator
