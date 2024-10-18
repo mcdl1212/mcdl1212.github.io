@@ -13,3 +13,5 @@
 #A Kiss For The Petals - Remembering How We Met
 #Stardew Valley
 #Citadelum
+#Assassin's Creed Mirage
+#City Bus Manager
