@@ -17,3 +17,4 @@
 #City Bus Manager
 #TCG Card Shop Simulator
 #Unknown 9: Awakening
+#Osiris: New Dawn
